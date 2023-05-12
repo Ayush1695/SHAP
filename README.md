@@ -4,7 +4,7 @@
 
 Pic Credit: Aiden Cooper
 
-What is SHAP?
+**Introduction to SHAP**
 
 Suppose you have a dataset with information about patients, including their age, BMI, blood pressure, and other health metrics, as well as whether or not they have been diagnosed with diabetes. You want to build a machine learning model that can predict whether or not a new patient will have diabetes, based on their health metrics.
 
@@ -17,4 +17,14 @@ To use SHAP to explain your diabetes prediction model, you can start by loading 
 Overall, SHAP is a powerful tool for interpreting machine learning models and understanding how they make their predictions. By using Shapley values to attribute feature importance, SHAP can provide valuable insights into the inner workings of complex models, such as those used for predicting diabetes.
 
 **In the code link [here](https://github.com/Ayush1695/SHAP/blob/main/code/model-interpretation-using-shap-in-2023.ipynb) you will get an idea how we can leverage power of SHAP to unterpret black box model on multiclass classification dataset**
+
+**Kaggle Notebook Link : ** [click here](https://www.kaggle.com/ayushnitb/notebooks)
+
+**References**
+- https://arxiv.org/abs/1705.07874
+- https://www.kaggle.com/code/bextuychiev/model-explainability-with-shap-only-guide-u-need
+- https://h2o.ai/blog/shapley-values-a-gentle-introduction/
+- https://www.analyticsvidhya.com/blog/2019/11/shapley-value-machine-learning-interpretability-game-theory/
+- SHAP package
+- Basic Sklearn, Xgboost, Lightgbm, and other general packages that a data scientist uses.
 
