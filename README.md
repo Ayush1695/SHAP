@@ -18,6 +18,8 @@ Overall, SHAP is a powerful tool for interpreting machine learning models and un
 
 **In the code link [here](https://github.com/Ayush1695/SHAP/blob/main/code/model-interpretation-using-shap-in-2023.ipynb) you will get an idea how we can leverage power of SHAP to unterpret black box model on multiclass classification dataset**
 
+**Dataset Link :** [click here](https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset)
+
 **Kaggle Notebook Link :** [click here](https://www.kaggle.com/code/ayushnitb/model-interpretation-using-shap-in-2023)
 
 **References**
